@@ -42,16 +42,6 @@ multi-scale DAG topology of conditional U-Nets, handling skip connections,
 scaled concatenations, residual additions, and FiLM conditioning in a 
 principled way.
 
-## Requirements
-```
-torch >= 2.0
-torchvision
-opacus
-numpy
-matplotlib
-scikit-learn
-```
-
 ## Citation
 
 If you use this code in your research, please cite:
