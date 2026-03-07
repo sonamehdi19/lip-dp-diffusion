@@ -37,7 +37,7 @@ unbiased gradient estimates and significant training speedups over DP-SGD.
 ## Method
 
 Lip-DP-Diffusion builds on the weight-clipping framework of 
-[Barczewski & Ramon (2025)]([https://arxiv.org/abs/...](https://arxiv.org/abs/2310.18001)) and extends it to the 
+[Barczewski & Ramon (2025)]([https://arxiv.org/abs/2310.18001]) and extends it to the 
 multi-scale DAG topology of conditional U-Nets, handling skip connections, 
 scaled concatenations, residual additions, and FiLM conditioning in a 
 principled way.
