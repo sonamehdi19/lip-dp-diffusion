@@ -32,7 +32,7 @@ unbiased gradient estimates and significant training speedups over DP-SGD.
   subsampling amplification
 - **Transfer learning protocol**: public pre-training within the constrained 
   weight space followed by private fine-tuning on sensitive data
-- Evaluated on **MNIST** and **Fashion-MNIST** with FID and CNN accuracy metrics
+- Evaluated on **MNIST** and **Fashion-MNIST** with FID/IS for data quality and classifier accuracy for downstream utility with Train-on-Synthetic, Test-on-Real (TSTR) protocol
 
 ## Method
 
