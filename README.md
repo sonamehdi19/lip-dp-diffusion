@@ -17,8 +17,8 @@ unbiased gradient estimates and significant training speedups over DP-SGD.
 |---|---|
 | `Lip-DP-Diffusion.ipynb` | Core training pipeline: Lip-DP-Diffusion from scratch on MNIST / Fashion-MNIST |
 | `Privacy Audit.ipynb` | Empirical privacy auditing via Loss-based Membership Inference Attack and outlier memorisation analysis |
-| `fine_tune.ipynb` | Transfer learning with Lip-DP-Diffusion: public pre-training + private fine-tuning |
-| `dp_sgd_baseline.ipynb` | DP-SGD baseline with noise multiplicity, EMA, and classifier-free guidance |
+| `Lip-DP-Diffusion_Private_Fine-tuning.ipynb` | Transfer learning with Lip-DP-Diffusion: public pre-training + private fine-tuning |
+| `DP-SGD_Implementation.ipynb` | DP-SGD baseline with noise multiplicity, EMA, and classifier-free guidance |
 
 ## Key Features
 
