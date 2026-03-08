@@ -41,15 +41,3 @@ Lip-DP-Diffusion builds on the weight-clipping framework of
 multi-scale DAG topology of conditional U-Nets, handling skip connections, 
 scaled concatenations, residual additions, and FiLM conditioning in a 
 principled way.
-
-## Citation
-
-If you use this code in your research, please cite:
-```bibtex
-@mastersthesis{mehdizade2026lipdp,
-  title     = {Exploration of Differential Privacy in Diffusion Models},
-  author    = {Mehdizade, Sona},
-  school    = {Freie Universit{\"a}t Berlin},
-  year      = {2026}
-}
-```
