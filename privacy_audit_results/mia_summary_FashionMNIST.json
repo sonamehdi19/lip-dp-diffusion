@@ -1,0 +1,14 @@
+{
+  "dataset": "FashionMNIST",
+  "t_range": "(100, 300)",
+  "results": {
+    "Baseline": {
+      "AUC": 0.56313,
+      "TPR@1%FPR": 0.022
+    },
+    "SN Model": {
+      "AUC": 0.52736,
+      "TPR@1%FPR": 0.015
+    }
+  }
+}

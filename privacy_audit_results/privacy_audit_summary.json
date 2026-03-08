@@ -1,0 +1,22 @@
+{
+  "MNIST": {
+    "outlier_matches_baseline": 46,
+    "outlier_matches_sn": 0,
+    "peak_t_baseline": 250,
+    "peak_t_sn": 400,
+    "mia_auc_baseline": 0.56804425,
+    "mia_auc_sn": 0.493143,
+    "mia_tpr_1pct_fpr_baseline": 0.0075,
+    "mia_tpr_1pct_fpr_sn": 0.009
+  },
+  "FashionMNIST": {
+    "outlier_matches_baseline": 29,
+    "outlier_matches_sn": 77,
+    "peak_t_baseline": 200,
+    "peak_t_sn": 200,
+    "mia_auc_baseline": 0.5631317499999999,
+    "mia_auc_sn": 0.52735675,
+    "mia_tpr_1pct_fpr_baseline": 0.022,
+    "mia_tpr_1pct_fpr_sn": 0.015
+  }
+}

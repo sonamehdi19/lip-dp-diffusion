@@ -1,0 +1,3 @@
+,outlier_matches_baseline,outlier_matches_sn,peak_t_baseline,peak_t_sn,mia_auc_baseline,mia_auc_sn,mia_tpr_1pct_fpr_baseline,mia_tpr_1pct_fpr_sn
+MNIST,46.0,0.0,250.0,400.0,0.56804425,0.493143,0.0075,0.009
+FashionMNIST,29.0,77.0,200.0,200.0,0.5631317499999999,0.52735675,0.022,0.015

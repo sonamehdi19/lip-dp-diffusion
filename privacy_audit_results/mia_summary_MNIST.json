@@ -1,0 +1,14 @@
+{
+  "dataset": "MNIST",
+  "t_range": "(150, 350)",
+  "results": {
+    "Baseline": {
+      "AUC": 0.56804,
+      "TPR@1%FPR": 0.0075
+    },
+    "SN Model": {
+      "AUC": 0.49314,
+      "TPR@1%FPR": 0.009
+    }
+  }
+}
